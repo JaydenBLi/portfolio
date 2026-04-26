@@ -13,7 +13,7 @@
 // currentLink?.classList.add('current');
 const BASE_PATH = (location.hostname === "localhost" || location.hostname === "127.0.0.1")
   ? ".."                  // Local server
-  : "/portfolio/";         // GitHub Pages repo name
+  : "/portfolio";         // GitHub Pages repo name
 console.log(BASE_PATH);
 let pages = [
   { url: '/', title: 'Home' },
