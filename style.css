@@ -105,3 +105,29 @@ label.color-scheme{
   right: 1rem;
   font: 80%;
 }
+#profile-stats {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  border-radius: 12px;
+}
+#profile-stats h2 {
+  margin-bottom: 1rem;
+}
+#profile-stats dl {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  text-align: center;
+}
+#profile-stats dt {
+  grid-row: 1;
+  font-size: 0.9rem;
+  color: #666;
+  font-weight: 500;
+}
+#profile-stats dd {
+  grid-row: 2;
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin: 0;
+}

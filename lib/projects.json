@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Malware Detection",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Designed and evaluated preprocessing pipelines for three malware opcode datasets to uncover discriminative patterns and improve detection accuracy. Trained and validated anomaly-detection models to identify malicious behavior, contributing to more reliable early-threat detection"
+    },
+    {
+        "title": "ERC Course Registration Tool",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Scraped and cleaned data from 5+ school websites, merging information to create a dataset that could be easily filtered to search for a desired class. Created a website which allowed users to interactively filter through the available classes from the merged dataframe as well as check if the classes they selected fulfilled their requirements"
+    },
+    {
+        "title": "Power Outage Analysis and Prediction",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Analyzed and cleaned a large U.S. power outage dataset (1,500+ records, 50+ features) to identify key drivers of outage duration and customer impact across time, geography, and outage causes. Built a predictive modeling pipeline to estimate the number of customers affected at outage onset, supporting earlier situational awareness and prioritization of emergency response and resource allocation. Engineered features and evaluated baseline regression models to establish performance benchmarks, laying groundwork for data-driven improvements in outage mitigation and infrastructure planning."
+    },
+    {
+        "title": "Id possimus blanditiis perferendis.",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Architecto corrupti laborum consequuntur placeat deleniti aspernatur, minima magni amet quidem dolorum dolores sit nostrum corporis ipsum perspiciatis voluptate, itaque temporibus animi consectetur quisquam. Officiis nisi dignissimos dolore id impedit."
+    },
+    {
+        "title": "Maxime aspernatur totam nobis.",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Architecto iste, possimus voluptatibus laudantium praesentium, dicta quasi autem ipsa, perferendis blanditiis amet. Alias vero tenetur adipisci maxime ea dolor amet, atque sapiente doloremque harum ipsa temporibus perferendis quibusdam voluptatem."
+    },
+    {
+        "title": "Placeat debitis perspiciatis nesciunt?",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Neque libero sunt quo nesciunt numquam rerum unde optio animi sint quia excepturi nobis repellendus error eligendi non sequi, molestias eaque nisi quisquam veniam reiciendis. Ex, nisi. Esse, illum. Quos."
+    },
+    {
+        "title": "Porro magnam sit ratione!",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Quas voluptates officiis dolorem a, sapiente illum necessitatibus mollitia dolores distinctio reiciendis magni exercitationem voluptatum dicta? Deleniti atque placeat nostrum sapiente quis vel minima debitis consectetur voluptates, eligendi dolores dolor!"
+    },
+    {
+        "title": "Aperiam modi suscipit consequatur?",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Quibusdam pariatur minima dolore molestiae quidem eius sequi eaque quasi odit nam nisi cupiditate culpa nobis, hic corrupti tempore quia natus labore ex dicta! Unde quos voluptate doloribus. Incidunt, aliquam."
+    },
+    {
+        "title": "Voluptas, eos odit. Mollitia.",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Accusantium, minima inventore qui sapiente hic rem magni reprehenderit deleniti recusandae, fuga consectetur, modi omnis libero impedit et rerum a. Impedit totam harum quo expedita molestias omnis dolorem labore voluptate?"
+    },
+    {
+        "title": "Quidem optio labore nesciunt.",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Iure rerum explicabo consectetur, necessitatibus asperiores dolore at sunt, magni quia libero amet iusto, recusandae earum impedit odio quos. Veritatis a error, delectus itaque magnam quisquam officiis reiciendis dolore sequi."
+    },
+    {
+        "title": "Quam ducimus dolore recusandae!",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Voluptate soluta corporis illum minus magni, quisquam sunt et inventore aliquam saepe id maxime, accusantium numquam quo necessitatibus! Asperiores fuga libero voluptatibus, dolore laborum numquam ab officia qui explicabo nesciunt."
+    },
+    {
+        "title": "Accusamus sint repellendus sunt.",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Id, veniam praesentium totam, nisi quam eveniet a corrupti sapiente recusandae voluptatibus libero fuga iste nam ratione. Blanditiis atque debitis laboriosam! Ratione eos ab molestiae veritatis dolorem? Dolor, saepe ex."
+    }
+]
