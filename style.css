@@ -131,3 +131,57 @@ label.color-scheme{
   font-weight: bold;
   margin: 0;
 }
+
+#projects-pie-plot {
+  max-width: 20em;
+  margin-block: 2em;
+
+  overflow: visible;
+}
+.legend {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(9em, 1fr));
+  gap: 0.5em;
+  list-style: none;
+  padding: 1em;
+  margin:0;
+  border: 1px solid #ccc;
+}
+
+.legend li {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.swatch {
+  width: 1em;
+  height: 1em;
+  background: var(--color);
+  display: inline-block;
+  border-radius: 3px;
+}
+
+.chart-container {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+}
+
+&:has(path:hover) {
+  path:not(:hover) {
+    opacity: 0.5;
+  }
+}
+path {
+  transition: 300ms;
+  cursor: pointer;
+}
+.selected {
+  --color: oklch(60% 45% 0) !important;
+
+  &:is(path) {
+    fill: var(--color);
+  }
+}
