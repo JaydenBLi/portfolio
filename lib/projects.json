@@ -18,9 +18,11 @@
         "description": "Analyzed and cleaned a large U.S. power outage dataset (1,500+ records, 50+ features) to identify key drivers of outage duration and customer impact across time, geography, and outage causes. Built a predictive modeling pipeline to estimate the number of customers affected at outage onset, supporting earlier situational awareness and prioritization of emergency response and resource allocation. Engineered features and evaluated baseline regression models to establish performance benchmarks, laying groundwork for data-driven improvements in outage mitigation and infrastructure planning."
     },
     {
-        "title": "Id possimus blanditiis perferendis.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Architecto corrupti laborum consequuntur placeat deleniti aspernatur, minima magni amet quidem dolorum dolores sit nostrum corporis ipsum perspiciatis voluptate, itaque temporibus animi consectetur quisquam. Officiis nisi dignissimos dolore id impedit."
+        "title": "Bikewatching",
+        "year": "2026",
+        "image": "/lib/image.png",
+        "description": "Built an interactive geospatial visualization of Bluebikes traffic data in the Boston and Cambridge area using Mapbox GL JS and D3.js. Integrated live map layers, bike lane GeoJSON datasets, and over 260,000 trip records to visualize station traffic patterns through dynamically sized and color-coded markers. Implemented real-time filtering by time of day, responsive SVG overlays, tooltips, and traffic-flow analysis to enable interactive exploration of urban mobility trends.",
+        "url": "https://jaydenbli.github.io/bikewatching/"
     },
     {
         "title": "Maxime aspernatur totam nobis.",
